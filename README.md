@@ -1,2 +1,1 @@
-# GA-BQ
- 
+# Connector between Google Analytics and BigQuery
